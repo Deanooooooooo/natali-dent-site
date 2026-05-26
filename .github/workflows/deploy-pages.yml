@@ -1,4 +1,5 @@
 name: Deploy Pages
+# trigger-check
 
 on:
   push:
